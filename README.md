@@ -16,13 +16,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot/Capture%20d%E2%80%99%C3%A9cran%20de%202022-09-29%2010-59-04.png)
+![](./screenshot/Capture%20d%E2%80%99%C3%A9cran%20de%202022-09-29%2011-00-30.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://salomonshilo.github.io/codeQrFrMe/)
 
 ## My process
 
